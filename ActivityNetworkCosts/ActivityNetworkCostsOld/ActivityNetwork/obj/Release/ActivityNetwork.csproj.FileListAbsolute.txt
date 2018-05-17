@@ -1,0 +1,8 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\bin\Release\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\bin\Release\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ActivityNetwork.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ActivityNetwork.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Release\ActivityNetwork.csproj.GenerateResource.Cache

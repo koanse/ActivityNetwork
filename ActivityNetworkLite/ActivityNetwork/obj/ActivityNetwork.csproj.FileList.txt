@@ -1,0 +1,16 @@
+bin\Debug\ActivityNetwork.exe
+bin\Debug\ActivityNetwork.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ActivityNetwork.Properties.Resources.resources
+obj\Debug\ActivityNetwork.csproj.GenerateResource.Cache
+obj\Debug\ActivityNetwork.exe
+obj\Debug\ActivityNetwork.pdb
+obj\Debug\ActivityNetwork.MainForm.resources
+bin\Release\ActivityNetwork.exe
+bin\Release\ActivityNetwork.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ActivityNetwork.MainForm.resources
+obj\Release\ActivityNetwork.Properties.Resources.resources
+obj\Release\ActivityNetwork.csproj.GenerateResource.Cache
+obj\Release\ActivityNetwork.exe
+obj\Release\ActivityNetwork.pdb

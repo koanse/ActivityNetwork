@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ActivityNetwork">
+</Property><Property Name="Solution File" Value="D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork.sln">
+</Property><Property Name="User Options File" Value="D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork.suo">
+</Property><Property Name="Date" Value="23 июня 2009 г.">
+</Property><Property Name="Time" Value="16:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ActivityNetwork.sln" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ActivityNetwork.suo" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork.suo">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\ActivityNetwork.csproj" Description="Project file successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\ActivityNetwork.csproj">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\MainForm.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\MainForm.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Program.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Program.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Properties\Settings.settings" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\MainForm.resx" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\Properties\Resources.resx" Description="File successfully backed up as D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\Backup\ActivityNetwork\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\ActivityNetwork.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ActivityNetwork" Source="ActivityNetwork\ActivityNetwork.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ActivityNetwork.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ActivityNetwork.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ActivityNetwork" Source="ActivityNetwork\ActivityNetwork.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

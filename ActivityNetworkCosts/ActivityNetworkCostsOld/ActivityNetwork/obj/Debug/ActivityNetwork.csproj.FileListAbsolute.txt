@@ -1,0 +1,16 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ActivityNetwork.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ActivityNetwork.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\obj\Debug\ActivityNetwork.csproj.GenerateResource.Cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\bin\Debug\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetwork\ActivityNetwork\bin\Debug\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\bin\Debug\ActivityNetwork.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\bin\Debug\ActivityNetwork.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ActivityNetwork.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ActivityNetwork.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\ActivityNetworkCosts\ActivityNetwork\obj\Debug\ActivityNetwork.csproj.GenerateResource.Cache
